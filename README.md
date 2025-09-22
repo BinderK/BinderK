@@ -13,14 +13,14 @@ I split my time between writing code, designing systems, and mentoring teams, wi
 
 ## 📂 Featured Projects
 
-#### [Freelance Management Platform](https://github.com/kevinbinder92/kb-freelance-dashboard)
+#### [Freelance Management Platform](https://github.com/BinderK/kb-freelance-dashboard)
 *Go, React, TypeScript, Tailwind CSS, Python, SQLite*  
 Full-stack platform combining a Go REST API, React/TypeScript dashboard, and Python CLI tools.  
 Features **automated time tracking**, configurable PDF invoice generation, and project workflows — showcasing **modern API-driven architecture** and responsive UI design.
 
 ---
 
-#### [UI Test Automation Framework](https://github.com/kevinbinder92/kb-ui-test-cli)
+#### [UI Test Automation Framework](https://github.com/BinderK/kb-ui-test-cli)
 *Python, Playwright, OpenAI API*  
 Extensible record/replay testing framework for web applications.  
 Supports regression testing, multi-step workflows, and captcha handling, with **AI-powered test generation** using OpenAI for faster, more intuitive test creation.
