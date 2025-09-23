@@ -45,6 +45,7 @@ Architected and built from the ground up, serving **500+ users within 6 months**
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevin-binder-422a53231/)
 - ✉️ kevinbinder92@gmail.com
 - 🌎 Based in Hoboken, NJ.
+- ✅ Authorized to work in the U.S. (EAD) – No sponsorship required
 
 <!--
 **BinderK/BinderK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
