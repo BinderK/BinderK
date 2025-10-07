@@ -1,4 +1,4 @@
-# Servus there, I'm Kevin Binder! 👋🇦🇹
+# Servus there, I'm Kevin Binder! 👋🇦🇹🇺🇸
 
 💻 **Software Engineer & Technical Manager** with 10+ years building and shipping applications across web, mobile, and desktop — including direct communication to/from hardware components.
 I split my time between writing code, designing systems, and mentoring teams, with a focus on API-driven architecture, automation, and clean UX.
